@@ -1,1 +1,2 @@
 hej kochani jestem użytkowniczką vim
+teraz wprowadzam zmianę i ją zakomituję
